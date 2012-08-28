@@ -1,0 +1,5 @@
+libtest-command-simple-perl (0.03-1~unstable+1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Tue, 28 Aug 2012 16:20:02 +0200

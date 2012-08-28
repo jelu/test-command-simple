@@ -1,0 +1,16 @@
+Source: libtest-command-simple-perl
+Section: perl
+Priority: optional
+Build-Depends: debhelper (>= 7)
+Build-Depends-Indep: perl
+Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
+Standards-Version: 3.9.1
+Homepage: http://search.cpan.org/dist/Test-Command-Simple/
+
+Package: libtest-command-simple-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}
+Description: Test external commands (nearly) as easily as loaded modules.
+ (no description was found)
+ .
+ This description was automagically extracted from the module by dh-make-perl.
